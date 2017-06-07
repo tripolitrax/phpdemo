@@ -1,8 +1,5 @@
-<html>
- <head>
-  <title>PHP OpenShift</title>
- </head>
- <body>
- <p>Hello OpenShift :P </p>
- </body>
-</html>
+<?php
+echo "<h1>Best app ever!!";
+echo "<br><br>awesome";
+echo "<br>but not as cool as this";
+?>
